@@ -1,3 +1,12 @@
+# Personal Notes
+
+## Chapter3: Components, State & Props
+In IntelliJ, the snippet for creating a React component is `rcjc`
+
+
+### End of Personal Notes
+
+# Default Read.me when creating a react app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
